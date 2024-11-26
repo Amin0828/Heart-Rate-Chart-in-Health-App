@@ -31,12 +31,12 @@
 ## 4. 產生圖表及紀錄檔
 執行完成後，將圖表及紀錄檔分別儲存為 `heart.png` 及 `output.txt`，位於專案目錄。
 
-程式結構
-.
-├── health.py   # 主程式碼
-├── export.xml  # 健康App匯出的XML檔案
-├── output.txt  # 輸出的心率詳細資料
-└── heart.png   # 輸出的心率趨勢圖表
+## 程式結構
+
+- ├── health.py   # 主程式碼
+- ├── export.xml  # 健康App匯出的XML檔案
+- ├── output.txt  # 輸出的心率詳細資料
+- └── heart.png   # 輸出的心率趨勢圖表
 
 
 ## 注意事項
